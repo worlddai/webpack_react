@@ -8,7 +8,7 @@
     "dev": "webpack-dev-server --config ./build/webpack.dev.conf.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "dyj",
+  "author": "daiyujie <576981389@qq.com>",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.26.0",
